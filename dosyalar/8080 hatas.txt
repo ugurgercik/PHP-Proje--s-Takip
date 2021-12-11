@@ -1,0 +1,4 @@
+netstat -aon | find /i "8080"
+
+id'sini bul görev yntcisinden kapat.
+
